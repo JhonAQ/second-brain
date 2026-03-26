@@ -1,0 +1,2 @@
+Ideas clave: 
+- **La Sepultura y la Guardia (vv. 57-66):** El énfasis aquí es la **certeza de la muerte**. La guardia romana y el sello en la piedra están ahí para evitar un fraude, pero terminan siendo la mayor prueba histórica de que la tumba vacía al tercer día solo pudo ser un milagro.

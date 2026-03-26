@@ -2,3 +2,5 @@ A menudo se ha confundido y malinterpretado el ayuno usándolo como una forma de
 
 Mas sin embargo el ayuno ontológicamente nace de la urgencia espiritual, donde la carga espiritual o la necesidad de intercesión es tan grande que las necesidades físicas pasan a segundo plano o se olvidan.
 
+Pablo mismo no comio ni bebió por 3 días al entrar en damasco [[@Hechos#^7dd314]]
+
