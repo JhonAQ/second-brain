@@ -117,22 +117,6 @@
           }
         ],
         "currentTab": 7
-      },
-      {
-        "id": "91d2dd60eca8b93d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "54f7df61c1e43308",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -302,7 +286,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54f7df61c1e43308",
+  "active": "a19b9dfff7d724ef",
   "lastOpenFiles": [
     "Predica El rey sufriente.md",
     "FUENTES/@Hechos.md",
