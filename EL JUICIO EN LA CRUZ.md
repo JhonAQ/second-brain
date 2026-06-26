@@ -1,5 +1,3 @@
-## Predica estructura
-
 ### Introduccion
 
 Imagínate que un grupo de jueces te acusara injustamente de un crimen que no has cometido. Se inventan cargos y pruebas contra ti, sobornan a los testigos y finalmente te condenan a la muerte. 

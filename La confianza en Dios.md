@@ -1,0 +1,2 @@
+- No usar a Dios como una "maquina de deseos"
+- Los milagros apostolilcos fueron hechos con la finalidad de la credibilidad de Dios 
